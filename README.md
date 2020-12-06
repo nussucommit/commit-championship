@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## NUSSU commIT Championship 2020
 
-You can use the [editor on GitHub](https://github.com/luciatirta/commit-championship/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Background
 
-### Markdown
+In line with our vision to be a premier provider for IT services, one of the goals this year is to **promote IT literacy** in NUS. On top of the existing challenge we face, COVID-19 pandemic introduces new challenges in achieving this goal. The question is, “how might we mitigate these problems?”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Through this CommIT Championship, we aim to:
+1. Foster relationships between members
+2. Nurture problem solving skills
+3. Reinventing the wheel in creative ways to serve the NUS community
 
-```markdown
-Syntax highlighted code block
+### Competition Overview
 
-# Header 1
-## Header 2
-### Header 3
+* This is a team challenge
+* There are **3 challenge statements** that you can **choose one** from
+* All submissions are done online
+* The CommIT Championship commences after final examinations, and you will have the whole winter break to do this challenge* 
+* All teams will present their work in the welcome dinner in January
+* Winning team will get attractive prizes
 
-- Bulleted
-- List
+### Participation Details
 
-1. Numbered
-2. List
+* We have grouped you into teams consisting of **4-5 mentees (team members) and 1 mentor(team director)**
+* All teams will present their work during welcome dinner in January
+* Winning team will get **attractive prizes**
 
-**Bold** and _Italic_ and `Code` text
+### Challenge Statement
 
-[Link](url) and ![Image](src)
-```
+1. How might we improve the commIT workshops to better serve the students?
+2. How can commIT help to alleviate the student’s stress from online classes
+3. How can commIT improve student’s online learning experience?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luciatirta/commit-championship/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

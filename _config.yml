@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: "NUSSU commIT Championship"
+theme: jekyll-theme-slate
+
+markdown: kramdown
+
+plugins:
+  - jemoji

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Challenge Statement
+title: Challenge
 ---
 
 **Choose one out of the following three challenge statements**

@@ -1,3 +1,8 @@
+---
+layout: page
+title: commIT Championship 2020
+---
+
 <h2>Table of Contents</h2>
 * Table of Contents
 {:toc}

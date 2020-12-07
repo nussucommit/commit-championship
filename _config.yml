@@ -8,7 +8,7 @@ header_pages:
 
 markdown: kramdown
 
-repository: "AY2021S1-CS2103T-F12-4/tp"
+repository: "luciatirta/commit-championship"
 github_icon: "images/github-icon.png"
 
 plugins:

@@ -1,4 +1,9 @@
-Choose one out of the following three challenge statements
+---
+layout: page
+title: Challenge Statement
+---
+
+**Choose one out of the following three challenge statements**
 
 ## Challenge Statement 1: How might we improve the commIT workshops to better serve the students?
 

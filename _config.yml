@@ -3,7 +3,7 @@ theme: jekyll-theme-slate
 
 header_pages:
   - Overview.md
-  - Challenge.md
+  - ChallengeStatement.md
   - Submission.md
 
 markdown: kramdown

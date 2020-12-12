@@ -4,7 +4,7 @@ title: Submission
 ---
 
 ## Submission Format
-Please submit in PDF format to our email at secretary@nussucommit.com by ___
+Please submit a slide deck of maximum of 20 pages in **PDF format** to our email at **secretary@nussucommit.com** by **12 January 2021 23.59 SGT**.
 
 ## Timeline
 1. Start of the Challenge: 12 December 2020
